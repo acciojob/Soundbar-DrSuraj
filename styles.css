@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+/* Add your styling here */
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 0 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.stop {
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
